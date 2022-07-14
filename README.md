@@ -1,5 +1,5 @@
 # WILLIAM ECONOMIC & CODING BLOGS
-#### Video Demo:  
+#### Video Demo: https://youtu.be/a5uSMyqV8kU
 #### Description:
 
 My name is William. I love coding and I'm a big fan of economics. I used this opportunity to launch my blogs for coding and economics. This final project's topic is an economic analysis of the 2008 financial crisis. I wrote a blog regarding its causes, effects, and potential reappearance. My website is only getting started. More stuff for the economic analysis and my journey into coding will be added. It's simply a basic blog site right now.
